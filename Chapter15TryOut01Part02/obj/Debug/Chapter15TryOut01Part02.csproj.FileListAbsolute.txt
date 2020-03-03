@@ -1,0 +1,15 @@
+D:\IBT\C# Windows Form\Chapter15TryOut01Part02\bin\Debug\Chapter15TryOut01Part02.exe.config
+D:\IBT\C# Windows Form\Chapter15TryOut01Part02\bin\Debug\Chapter15TryOut01Part02.exe
+D:\IBT\C# Windows Form\Chapter15TryOut01Part02\bin\Debug\Chapter15TryOut01Part02.pdb
+D:\IBT\C# Windows Form\Chapter15TryOut01Part02\obj\Debug\Chapter15TryOut01Part02.csprojAssemblyReference.cache
+D:\IBT\C# Windows Form\Chapter15TryOut01Part02\obj\Debug\MainWindow.g.cs
+D:\IBT\C# Windows Form\Chapter15TryOut01Part02\obj\Debug\App.g.cs
+D:\IBT\C# Windows Form\Chapter15TryOut01Part02\obj\Debug\Chapter15TryOut01Part02_MarkupCompile.cache
+D:\IBT\C# Windows Form\Chapter15TryOut01Part02\obj\Debug\Chapter15TryOut01Part02_MarkupCompile.lref
+D:\IBT\C# Windows Form\Chapter15TryOut01Part02\obj\Debug\MainWindow.baml
+D:\IBT\C# Windows Form\Chapter15TryOut01Part02\obj\Debug\Chapter15TryOut01Part02.g.resources
+D:\IBT\C# Windows Form\Chapter15TryOut01Part02\obj\Debug\Chapter15TryOut01Part02.Properties.Resources.resources
+D:\IBT\C# Windows Form\Chapter15TryOut01Part02\obj\Debug\Chapter15TryOut01Part02.csproj.GenerateResource.cache
+D:\IBT\C# Windows Form\Chapter15TryOut01Part02\obj\Debug\Chapter15TryOut01Part02.csproj.CoreCompileInputs.cache
+D:\IBT\C# Windows Form\Chapter15TryOut01Part02\obj\Debug\Chapter15TryOut01Part02.exe
+D:\IBT\C# Windows Form\Chapter15TryOut01Part02\obj\Debug\Chapter15TryOut01Part02.pdb
